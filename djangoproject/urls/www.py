@@ -1,4 +1,5 @@
-from django.conf import settings
+from django.conf import set
+
 from django.contrib import admin
 from django.contrib.auth import views as auth_views
 from django.contrib.contenttypes import views as contenttypes_views
